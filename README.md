@@ -35,7 +35,7 @@ The requirements contained within this repository are captured as a simple list 
   - [documentation](https://github.com/programming-the-iot/book-exercise-tasks/labels/documentation)
   - [exercise](https://github.com/programming-the-iot/book-exercise-tasks/labels/exercise)
   - [optional](https://github.com/programming-the-iot/book-exercise-tasks/labels/optional)
-  - [test](https://github.com/programming-the-iot/book-exercise-tasks/labels/test)
+  - [integration](https://github.com/programming-the-iot/book-exercise-tasks/labels/integration)
   
 ## About the naming and numbering convention
 - Each entry is named according to the following convention: PIOT-{component}-{chapter}-{number}.
