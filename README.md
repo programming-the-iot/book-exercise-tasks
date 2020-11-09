@@ -30,12 +30,12 @@ The requirements contained within this repository are captured as a simple list 
   - [Chapter 12: Semester Project](https://github.com/orgs/programming-the-iot/projects/1#column-10488565)
   
 - Each entry has at least one category label, as follows:
-  - [build](https://github.com/programming-the-iot/book-exercise-tasks/labels/build)
-  - [configuration](https://github.com/programming-the-iot/book-exercise-tasks/labels/configuration)
-  - [documentation](https://github.com/programming-the-iot/book-exercise-tasks/labels/documentation)
-  - [exercise](https://github.com/programming-the-iot/book-exercise-tasks/labels/exercise)
-  - [optional](https://github.com/programming-the-iot/book-exercise-tasks/labels/optional)
-  - [integration](https://github.com/programming-the-iot/book-exercise-tasks/labels/integration)
+  - [build](https://github.com/programming-the-iot/book-exercise-tasks/labels/build): Build and / or DevOps related task (e.g. checkout a new branch).
+  - [configuration](https://github.com/programming-the-iot/book-exercise-tasks/labels/configuration): Configuration related task (e.g. install some software).
+  - [documentation](https://github.com/programming-the-iot/book-exercise-tasks/labels/documentation): Documentation related task (e.g. write-up your approach).
+  - [exercise](https://github.com/programming-the-iot/book-exercise-tasks/labels/exercise): Exercise related task (e.g. implement the specific requirements listed).
+  - [optional](https://github.com/programming-the-iot/book-exercise-tasks/labels/optional): Optional exercise task (e.g. you can choose to implement this).
+  - [integration](https://github.com/programming-the-iot/book-exercise-tasks/labels/integration): Test and integration related task (e.g. test connection between apps).
   
 ## About the naming and numbering convention
 - Each entry is named according to the following convention: PIOT-{component}-{chapter}-{number}.
