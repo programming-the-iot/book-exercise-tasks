@@ -73,4 +73,4 @@ DISCLAIMER: This repository is still under active development - you'll likely fi
 # LICENSE
 Please see [LICENSE](https://github.com/programming-the-iot/python-components/blob/alpha001/LICENSE) if you plan to use this code.
 
-Copyright (c) 2020. Andrew D. King. All rights reserved.
+Copyright :copyright: 2020. Andrew D. King. All rights reserved.
