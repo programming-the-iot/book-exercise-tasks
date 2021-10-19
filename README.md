@@ -2,7 +2,7 @@
 
 This project captures the Lab Module exercises and associated requirements designed to align to each chapter in my upcoming book, [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401). You can view the Lab Module exercises via the Kanban board I created, along with information notes pertaining to each, located here:
 
-[Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
+ - [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
 
 # What You'll Find In This Project
 
@@ -16,7 +16,7 @@ If you're a student in Connected Devices, you'll find a fourth repository contai
 
 # Links, Exercises, Updates, Errata, and Clarifications
 
-Please see the following web sites for 
+Please see the following links to access exercises, errata / clarifications, and the e-book:
  - [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
  - [Errata and Clarifications](https://labbenchstudios.com/programming-the-iot-book/programming-the-iot-1st-edition/)
  - [Programming the Internet of Things Book](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/)
