@@ -14,6 +14,13 @@ The combination of these repositories, coupled with the [Programming the IoT Kan
 
 If you're a student in Connected Devices, you'll find a fourth repository containing document templates (README files) for each Lab Module in [book-exercise-docs](https://github.com/programming-the-iot/book-exercise-docs). These templates will help you document your technical approach for each Lab Module and the Semester Project.
 
+# Links, Exercises, Updates, Errata, and Clarifications
+
+Please see the following web sites for 
+ - [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
+ - [Errata and Clarifications](https://labbenchstudios.com/programming-the-iot-book/programming-the-iot-1st-edition/)
+ - [Programming the Internet of Things Book](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/)
+
 # How Exercises are Organized
 
 The requirements contained within this repository are captured as a simple list of dozens of tasks and activities - some are documentation-specific while most are programming-specific - and labeled according to activity category, chapter, and implementation order.
