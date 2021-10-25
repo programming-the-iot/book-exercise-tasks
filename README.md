@@ -1,6 +1,6 @@
 # Programming the IoT - Book Exercise Tasks
 
-This project captures the Lab Module exercises and associated requirements designed to align to each chapter in my upcoming book, [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401). You can view the Lab Module exercises via the Kanban board I created, along with information notes pertaining to each, located here:
+This project captures the Lab Module exercises and associated requirements designed to align to each chapter in my O'Reilly Media book, [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401). Lab Module exercises align to each chapter, and can be found here:
 
  - [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
 
