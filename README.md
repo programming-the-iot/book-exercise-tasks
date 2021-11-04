@@ -46,8 +46,7 @@ Each exercise within a given Lab Module has at least one label, intended to assi
   - [configuration](https://github.com/programming-the-iot/book-exercise-tasks/labels/configuration): Configuration related task (e.g., install some software).
   - [documentation](https://github.com/programming-the-iot/book-exercise-tasks/labels/documentation): Documentation related task (e.g., write-up your approach).
   - [exercise](https://github.com/programming-the-iot/book-exercise-tasks/labels/exercise): Required exercise related task (i.e., you should implement this).
-  - [optional](https://github.com/programming-the-iot/book-exercise-tasks/labels/optional): Optional exercise task (i.e., you can choose to implement this).
-  - [additional](https://github.com/programming-the-iot/book-exercise-tasks/labels/additional): Additional exercise task (i.e., if you're a student in my class, you should implement this).
+  - [additional](https://github.com/programming-the-iot/book-exercise-tasks/labels/additional): Additional exercise task (i.e., if you're a student in my class, you should implement this, although it is currently optional).
   - [integration](https://github.com/programming-the-iot/book-exercise-tasks/labels/integration): Test and integration related task (e.g., test connection between apps).
   
 ## About Naming and Numbering Conventions
