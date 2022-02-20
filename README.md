@@ -94,23 +94,7 @@ Much of the tasks and issues representing requirements within this repository wi
 
 # License
 
-*Documentation - Usage and License*
-
-This project's [written instructions and non-source code documentation](https://github.com/orgs/programming-the-iot/projects/1) - including this README.md file, all [Issues](https://github.com/programming-the-iot/book-exercise-tasks/issues), and the Notes, Instructions and Cards contained within the [Kanban board](https://github.com/orgs/programming-the-iot/projects/1) - are available under the following license:
-
- - Documentation: Copyright &copy; 2020 - 2022 by [Andrew D. King](https://andyking.me). Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/ " target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 <img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
-
-*Source Code Solutions and Examples - Usage and License*
-
-This project's [written instructions](https://github.com/orgs/programming-the-iot/projects/1) and [Issues](https://github.com/programming-the-iot/book-exercise-tasks/issues) documents contain sample source codes representing examples and solutions. Unless otherwise represented, these inline source codes (Java and Python) are available under the following license:
-
- - Inline Source Codes: Copyright &copy; 2020 - 2022 [Andrew D. King](https://andyking.me). Licensed under [The MIT License](https://opensource.org/licenses/MIT)
-
-Please refer to the referenced [python-components](https://github.com/programming-the-iot/python-components) and [java-components](https://github.com/programming-the-iot/java-components) repositories for their respective usage licenses, including any external dependencies and associated references.
-
-*NOTE*
-
-If any code samples or other technology this work contains or describes is subject to open source licenses or the intellectual property rights of others, it is your responsibility to ensure that your use thereof complies with such licenses and/or rights.
+Please see [LICENSE information in PIOT-DOC-LIC](https://github.com/programming-the-iot/book-exercise-tasks/issues/165) for more information.
 
 # References
 
