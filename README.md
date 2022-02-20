@@ -51,7 +51,11 @@ Each exercise within a given Lab Module has at least one label, intended to assi
   
 ## About Naming and Numbering Conventions
 
-Exercises and notes are named according to the following convention: {project name}-{category}-{lab module #}-{sequence #}. This naming convention is designed to help you navigate through the requirements in each Lab Module sequentially, building your solution in a step-by-step manner. The naming breakdown is as follows:
+Exercises and notes are named according to the following convention:
+
+*{project name}-{category}-{lab module #}-{sequence #}*
+
+This naming convention is designed to help you navigate through the requirements in each Lab Module sequentially, building your solution in a step-by-step manner. The naming breakdown is as follows:
   - project name:
     - PIOT: The project name (Programming the Internet of Things).
   - category:
@@ -70,7 +74,7 @@ Exercises and notes are named according to the following convention: {project na
 The structure of each chapter's notes and requirements are sequenced based on the ordered guidelines listed below:
   - FIRST: Read the information (INF) notes to help guide you through the exercises.
     - Example (INF): PIOT-INF-01-001 is the first (001) note in Chapter 01 associated with Programming the IoT (PIOT), and is for informational (INF) purposes.
-  - SECOND: If you're a student in a PIOT-specific course (e.g. Connected Devices), read and implement the configuration (STU) requirements to prepare for each exercise. Else, skip to the THIRD guideline.
+  - SECOND: If you're a student in a PIOT-specific course (e.g. Connected Devices), read through the STU category requirements to prepare for each exercise. Else, skip to the THIRD guideline.
     - Example (STU): PIOT-STU-02-001 is the first (001) student-specific task in Chapter 02 associated with Programming the IoT (PIOT). It applies to the entire chapter.
   - THIRD: Read and implement the configuration (CFG) requirements to prepare for each exercise.
     - Example (CFG): PIOT-CFG-06-001 is the first (001) configuration-specific task in Chapter 06 associated with Programming the IoT (PIOT). It applies to the entire chapter.
