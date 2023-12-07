@@ -98,7 +98,7 @@ Much of the tasks and issues representing requirements within this repository wi
 
 # License
 
-Please see [LICENSE information in PIOT-DOC-LIC](https://github.com/programming-the-iot/book-exercise-tasks/issues/165) for more information.
+Please see [LICENSE and USAGE information in PIOT-DOC-LIC](https://github.com/programming-the-iot/book-exercise-tasks/issues/165) for more information.
 
 # References
 
