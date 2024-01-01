@@ -28,18 +28,18 @@ The requirements contained within this repository are captured as a simple list 
 ## About Lab Modules, Milestones and Labels
 
 Each Lab Module listed below represents a single milestone, which maps to the like-named chapter in the book. Each has its own Kanban column and contains multiple exercises pertaining to the module:
-  - [Lab Module 01: Setup](https://github.com/orgs/programming-the-iot/projects/1#column-9974937)
-  - [Lab Module 02: Create Initial Apps](https://github.com/orgs/programming-the-iot/projects/1#column-9974938)
-  - [Lab Module 03: Data Simulation - CDA only](https://github.com/orgs/programming-the-iot/projects/1#column-10488379)
-  - [Lab Module 04: Hardware Emulation - CDA only](https://github.com/orgs/programming-the-iot/projects/1#column-10488386)
-  - [Lab Module 05: Data Management](https://github.com/orgs/programming-the-iot/projects/1#column-10488421)
-  - [Lab Module 06: MQTT Client - CDA only](https://github.com/orgs/programming-the-iot/projects/1#column-10488434)
-  - [Lab Module 07: MQTT Client - GDA only](https://github.com/orgs/programming-the-iot/projects/1#column-10488499)
-  - [Lab Module 08: CoAP Servers](https://github.com/orgs/programming-the-iot/projects/1#column-10488501)
-  - [Lab Module 09: CoAP Clients](https://github.com/orgs/programming-the-iot/projects/1#column-10488503)
-  - [Lab Module 10: Edge Integration](https://github.com/orgs/programming-the-iot/projects/1#column-10488510)
-  - [Lab Module 11: Cloud Integration - GDA only](https://github.com/orgs/programming-the-iot/projects/1#column-10488514)
-  - [Lab Module 12: Semester Project](https://github.com/orgs/programming-the-iot/projects/1#column-10488565)
+  - [Lab Module 01: Setup](https://github.com/programming-the-iot/book-exercise-tasks/issues/167)
+  - [Lab Module 02: Create Initial Apps](https://github.com/programming-the-iot/book-exercise-tasks/issues/202)
+  - [Lab Module 03: Data Simulation](https://github.com/programming-the-iot/book-exercise-tasks/issues/170)
+  - [Lab Module 04: Hardware Emulation](https://github.com/programming-the-iot/book-exercise-tasks/issues/172)
+  - [Lab Module 05: Data Management](https://github.com/programming-the-iot/book-exercise-tasks/issues/174)
+  - [Lab Module 06: MQTT Client - CDA](https://github.com/programming-the-iot/book-exercise-tasks/issues/177)
+  - [Lab Module 07: MQTT Client - GDA](https://github.com/programming-the-iot/book-exercise-tasks/issues/180)
+  - [Lab Module 08: CoAP Server](https://github.com/programming-the-iot/book-exercise-tasks/issues/183)
+  - [Lab Module 09: CoAP Clients](https://github.com/programming-the-iot/book-exercise-tasks/issues/186)
+  - [Lab Module 10: Edge Integration](https://github.com/programming-the-iot/book-exercise-tasks/issues/189)
+  - [Lab Module 11: Cloud Integration](https://github.com/programming-the-iot/book-exercise-tasks/issues/193)
+  - [Lab Module 12: Semester Project](https://github.com/programming-the-iot/book-exercise-tasks/issues/195)
   
 Each exercise within a given Lab Module has at least one label, intended to assist with categorizing the work to be done, as follows:
   - [build](https://github.com/programming-the-iot/book-exercise-tasks/labels/build): Build and / or DevOps related task (e.g., checkout a new branch).
